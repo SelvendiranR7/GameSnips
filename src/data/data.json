@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
+        "id": 1,
+        "likeCount": 200,
+        "name": "Selva",
+        "previews": [
+            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
+            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
+        ],
+        "title": "Game of knights"
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
+        "id": 2,
+        "likeCount": 200,
+        "name": "Selva",
+        "previews": [
+            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
+            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
+        ],
+        "title": "Game of knights"
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
+        "id": 3,
+        "likeCount": 200,
+        "name": "Selva",
+        "previews": [
+            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
+            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
+        ],
+        "title": "Game of knights"
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
+        "id": 4,
+        "likeCount": 200,
+        "name": "Selva",
+        "previews": [
+            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
+            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
+        ],
+        "title": "Game of knights"
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
+        "id": 5,
+        "likeCount": 200,
+        "name": "Selva",
+        "previews": [
+            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
+            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
+        ],
+        "title": "Game of knights"
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
+        "id": 6,
+        "likeCount": 200,
+        "name": "Selva",
+        "previews": [
+            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
+            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
+        ],
+        "title": "Game of knights"
+    }
+]
