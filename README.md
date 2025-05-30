@@ -18,7 +18,7 @@ _A project by Selvendiran R_
 ### 🔧 Install & Run
 
 ```bash
-git clone https://github.com/yourusername/ideastream.git
+git clone https://github.com/SelvendiranR7/GameSnips.git
 cd ideastream
 
 # Install dependencies
