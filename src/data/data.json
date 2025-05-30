@@ -1,68 +1,122 @@
 [
-    {
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
-        "id": 1,
-        "likeCount": 200,
-        "name": "Selva",
-        "previews": [
-            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
-            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
-        ],
-        "title": "Game of knights"
-    },
-    {
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
-        "id": 2,
-        "likeCount": 200,
-        "name": "Selva",
-        "previews": [
-            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
-            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
-        ],
-        "title": "Game of knights"
-    },
-    {
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
-        "id": 3,
-        "likeCount": 200,
-        "name": "Selva",
-        "previews": [
-            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
-            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
-        ],
-        "title": "Game of knights"
-    },
-    {
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
-        "id": 4,
-        "likeCount": 200,
-        "name": "Selva",
-        "previews": [
-            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
-            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
-        ],
-        "title": "Game of knights"
-    },
-    {
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
-        "id": 5,
-        "likeCount": 200,
-        "name": "Selva",
-        "previews": [
-            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
-            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
-        ],
-        "title": "Game of knights"
-    },
-    {
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo harum dolores eius cumque delectus veniam nulla ad ratione optio nostrum vel rerum, autem quod dolorem ea? Minima sequi esse quam.",
-        "id": 6,
-        "likeCount": 200,
-        "name": "Selva",
-        "previews": [
-            "https://plus.unsplash.com/premium_photo-1673765123739-3862ccaeb3d6",
-            "https://plus.unsplash.com/premium_photo-1681711647066-ef84575c0d95"
-        ],
-        "title": "Game of knights"
-    }
+  {
+    "description": "Fortnite is an ever-evolving multiplayer game where players battle,\nbuild, and outlast their opponents in a vibrant, dynamic world.\nWhether you're playing solo or teaming up with friends, every match\nis a new chance to show your skills and creativity.",
+    "id": 1,
+    "likeCount": 25000,
+    "liked": true,
+    "name": "Fortnite",
+    "previews": [
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a",
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab"
+    ],
+    "title": "Join the Ultimate Survival"
+  },
+  {
+    "description": "The Last of Us Part II continues the emotional journey of Ellie as\nshe navigates a devastated world filled with danger, loss, and\nunforgettable moments. With stunning visuals and deep storytelling,\nit sets a new bar for narrative-driven games.",
+    "id": 2,
+    "likeCount": 18000,
+    "liked": false,
+    "name": "The Last of Us Part II",
+    "previews": [
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab",
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a"
+    ],
+    "title": "Survive the Aftermath"
+  },
+  {
+    "description": "Step into the shoes of Geralt of Rivia, a monster hunter for hire,\nand explore a vast, richly detailed fantasy world. The Witcher 3:\nWild Hunt delivers a gripping story, complex characters, and moral\nchoices that truly impact the game's world.",
+    "id": 3,
+    "likeCount": 32000,
+    "liked": true,
+    "name": "The Witcher 3: Wild Hunt",
+    "previews": [
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a",
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab"
+    ],
+    "title": "Hunt the Wild"
+  },
+  {
+    "description": "Feel the adrenaline as you race through city streets, evade cops,\nand customize your dream car. Need for Speed: Heat blends arcade\nracing with narrative and a vivid open world for both day and night\nracing challenges.",
+    "id": 4,
+    "likeCount": 14500,
+    "liked": false,
+    "name": "Need for Speed: Heat",
+    "previews": [
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab",
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a"
+    ],
+    "title": "Drive to Win"
+  },
+  {
+    "description": "Join a team of extraordinary heroes and use unique powers to\nbattle opponents across global arenas. Overwatch 2 brings new\ncharacters, cooperative modes, and updated graphics to an already\nbeloved competitive shooter franchise.",
+    "id": 5,
+    "likeCount": 27000,
+    "liked": true,
+    "name": "Overwatch 2",
+    "previews": [
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a",
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab"
+    ],
+    "title": "Assemble Your Heroes"
+  },
+  {
+    "description": "Mount & Blade II: Bannerlord offers a sprawling medieval sandbox\nwhere players can forge empires, command armies, and engage in\nbrutal, real-time combat. Diplomacy, trade, and strategy add layers\nof depth to the experience.",
+    "id": 6,
+    "likeCount": 11000,
+    "liked": false,
+    "name": "Mount & Blade II: Bannerlord",
+    "previews": [
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab",
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a"
+    ],
+    "title": "Lead Armies, Forge Kingdoms"
+  },
+  {
+    "description": "Enter the world of Azeroth, where heroes rise to face ancient\nevils and forge legendary alliances. World of Warcraft continues to\nevolve with massive expansions, deep lore, and a vibrant community\nof players worldwide.",
+    "id": 7,
+    "likeCount": 50000,
+    "liked": true,
+    "name": "World of Warcraft",
+    "previews": [
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a",
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab"
+    ],
+    "title": "Adventure Awaits in Azeroth"
+  },
+  {
+    "description": "Little Nightmares II immerses players in a suspenseful journey\nthrough hauntingly beautiful environments. Solve puzzles, avoid\nmonsters, and uncover the dark secrets that lie just beneath the\nsurface.",
+    "id": 8,
+    "likeCount": 8900,
+    "liked": false,
+    "name": "Little Nightmares II",
+    "previews": [
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab",
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a"
+    ],
+    "title": "Escape the Nightmares"
+  },
+  {
+    "description": "Minecraft offers a sandbox experience like no other. Build,\nexplore, craft, and survive in a world limited only by your\nimagination. Play solo or with friends and create your own\nadventure, one block at a time.",
+    "id": 9,
+    "likeCount": 60000,
+    "liked": true,
+    "name": "Minecraft",
+    "previews": [
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a",
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab"
+    ],
+    "title": "Build Your World"
+  },
+  {
+    "description": "Live the myth as a legendary Spartan warrior and shape history\nthrough choices that matter. Assassin’s Creed Odyssey blends\nhistorical exploration, brutal combat, and branching narratives into\na breathtaking epic set in Ancient Greece.",
+    "id": 10,
+    "likeCount": 21000,
+    "liked": true,
+    "name": "Assassin's Creed Odyssey",
+    "previews": [
+      "https://plus.unsplash.com/premium_photo-1672942124777-ebffc404fdab",
+      "https://images.unsplash.com/photo-1634195130430-2be61200b66a"
+    ],
+    "title": "Live the Legend"
+  }
 ]
