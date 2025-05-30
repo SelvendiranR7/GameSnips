@@ -1,0 +1,10 @@
+export const LIKE_ICON = require('./heart.png');
+export const LIKED_ICON = require('./heartFilled.png');
+export const COMMAND_ICON = require('./command.png');
+export const MORE_ICON = require('./more.png');
+export const SHARE_ICON = require('./share.png');
+export const ADD_ICON = require('./add.png');
+export const ATTACHMENT_ICON = require('./attachment.png');
+export const CLOSE_ICON = require('./close.png');
+export const BACK_ICON = require('./back.png');
+export const USER_ICON = require('./user.png');
