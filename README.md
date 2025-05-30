@@ -67,4 +67,4 @@ npm install
 yarn install
 
 # Start the development server
-npx expo start
+yarn start
